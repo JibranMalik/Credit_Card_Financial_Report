@@ -197,8 +197,8 @@ This dashboard focuses on **transaction behavior and spending patterns**.
 ## 📊 Dashboard Preview
 
 ```
-![Credit Card Customer Report]([images/customer_report.png](https://github.com/JibranMalik/Credit_Card_Financial_Report/blob/2ad04bc4adf2d0593af7e8976deb0ab272190a6e/Power%20BI%20Report.pdf))
-![Credit Card Transaction Report]([images/transaction_report.png](https://github.com/JibranMalik/Credit_Card_Financial_Report/blob/2ad04bc4adf2d0593af7e8976deb0ab272190a6e/Power%20BI%20Report.pdf))
+![images alt](https://github.com/JibranMalik/Credit_Card_Financial_Report/blob/2ad04bc4adf2d0593af7e8976deb0ab272190a6e/Power%20BI%20Report.pdf))
+
 ```
 
 ---
