@@ -3,7 +3,7 @@
 
 **Data Analytics Portfolio Project | SQL & Power BI**
 
----
+----
 
 ## 📌 Project Overview
 
